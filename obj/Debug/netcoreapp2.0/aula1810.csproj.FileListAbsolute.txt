@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\aula1810\bin\Debug\netcoreapp2.0\aula1810.deps.json
+c:\Users\FIC\Desktop\aula1810\bin\Debug\netcoreapp2.0\aula1810.runtimeconfig.json
+c:\Users\FIC\Desktop\aula1810\bin\Debug\netcoreapp2.0\aula1810.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\aula1810\bin\Debug\netcoreapp2.0\aula1810.dll
+c:\Users\FIC\Desktop\aula1810\bin\Debug\netcoreapp2.0\aula1810.pdb
+c:\Users\FIC\Desktop\aula1810\obj\Debug\netcoreapp2.0\aula1810.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\aula1810\obj\Debug\netcoreapp2.0\aula1810.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\aula1810\obj\Debug\netcoreapp2.0\aula1810.AssemblyInfo.cs
+c:\Users\FIC\Desktop\aula1810\obj\Debug\netcoreapp2.0\aula1810.dll
+c:\Users\FIC\Desktop\aula1810\obj\Debug\netcoreapp2.0\aula1810.pdb
